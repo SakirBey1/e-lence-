@@ -1,4 +1,4 @@
-S_LİST = [
+S_SORU = [
         "Şimdiye kadar öpüştüğün en iyi kişi kim?","Hiç biriyle seks yaptın mı?","Hiç birine nude fotoğraf gönderdin mi?","Hiç hemcinsinden etkilendin mi?","En büyük cinsel fantezin nedir?",
         "Çıplak uyumayı sever misin?","Tinderdan buluştuğun biriyle hiç öpüştün mü?","Biriyle beraber olmak istesen bu ne olurdu?","İnternette hiç uygunsuz bir şey aradın mı?","Ateşli bir ilişki mi yoksa sakin bir ilişki mi tercih edersin?",
         "Partnerin ile seviştiğin en sıradışı mekan neresi?","Pişmanlık duyduğun bir deneyimin oldu mu?","Ön sevişme esnasında en çok hoşuna giden şey nedir?","Şimdiye kadar en çok keyif aldığın deneyimin hangisiydi?","En sevdiğin pozisyon hangisi?","En çok nerene dokunmaktan hoşlanırsın?",
@@ -14,7 +14,7 @@ S_LİST = [
 ] 
 
 
-C_LİST=[
+C_SORU = [
 	"Seçtiğiniz bir sosyal medya hesabınızdan çok çirkin bir fotoğrafınızı paylaşın.","Mesaj yazma bölümünüzü telefonunuzdan açın gözlerinizi kapatın ve rasgele bir kişiye körü körüne bir metin gönderin.",
 	"Önümüzdeki 5 dakika boyunca söylediğin her şeyden sonra “mee” diyeceksin",
 	"Önümüzdeki 5 dakika içinde birinin hayvanı olun.","İnstagramını oyunculardan birine ver. 5 dk boyunca her yere bakmak serbest.",
@@ -61,7 +61,7 @@ C_LİST=[
 	"Telefondaki tarayıcı geçmişini herkese göster.","Odadan birisi için satın alacakmış gibi iç çamaşırı araştırması yap."
 ]
 
-D_LİST = [
+D_SORU = [
 	"Telefonunda en son aradığın şey neydi?","Birisi kız arkadaşın / erkek arkadaşından ayrılmak için sana 1 milyon tl önerseydi, yapar mıydın?",
 	"Bu grupda en az kimi seviyorsun ve neden?","Hiç sınıfta yüksek sesle geğirdin mi?",
 	"Hiç sınıfta yüksek sesle geğirdin mi?","Yerden bir şeyi alıp hiç yedin mi?",
